@@ -7,9 +7,9 @@
     <h1 style="color:rgb(155, 65, 155); font-family:verdana; text-align:center; margin-top: 20px;"> SISTEMAS PARA INTERNET:</h1>
 
     <h2 style="color:rgb(155, 65, 155); font-family:verdana">Informações Pessoais:</h2>
-    <p>
+  
         <img src="mikee.JPEG" width="150" style="float:left; margin-right:10px">
-    </p>
+    
     <br> <br>
     <table border="3">
         <tr style="text-align: center;">
@@ -37,23 +37,25 @@
         <li>Universidade: IFTM (Instituto Federal do Triângulo Mineiro)</li>
       </ul>
       
-      <h2 style="color:rgb(155, 65, 155); font-family:verdana">Hobbies::</h2>
+      <h2 style="color:rgb(155, 65, 155); font-family:verdana">Hobbies:</h2>
 
-        <p><b>Volêi:</b></p>
+      <ol>
+        <li><b>Volêi:</b></li>
         Geralmente jogo no sábado a noite. <br>
-        <a href="https://youtu.be/i7QwQPiAa0A?si=kS5qliPX0_AR-KUg" target="_parent">Veja seus benefícios</a>
-        <p><b>Academia:</b></p>
+        <a href="https://youtu.be/i7QwQPiAa0A?si=kS5qliPX0_AR-KUg" target="_blank">Veja seus benefícios</a>
+        <li><b>Academia:</b></li>
         Treino 5 vezes por semana (Segunda à Sexta). <br>
-        <a href="https://youtu.be/27YQrQ2JDPw?si=pmhYD2XHcOAHyMZy" target="_parent">Importância do Treino</a>
-        <p><b>Livros:</b></p>
+        <a href="https://youtu.be/27YQrQ2JDPw?si=pmhYD2XHcOAHyMZy" target="_blank">Importância do Treino</a>
+        <li><b>Livros:</b></li>
         Leio um pouco cada dia, durante o intervalo de aulas. <br>
-        <a href="https://youtu.be/BtFHTJZuOWE?si=xXZOq0oAS6DnQ4vc" target="_parent">Prática da Leitura</a>
-        <p><b>Filmes:</b></p>
+        <a href="https://youtu.be/BtFHTJZuOWE?si=xXZOq0oAS6DnQ4vc" target="_blank">Prática da Leitura</a>
+        <li><b>Filmes:</b></li>
         Vejo filmes para descansar no decorrer da semana. <br>
-        <a href="https://youtu.be/XHu1ddZy-1M?si=SfPGCUUbSmG1Rd0-" target="_parent">Melhores Sites de Filmes</a>
-        <br> Exemplos: <br>
+        <a href="https://youtu.be/XHu1ddZy-1M?si=SfPGCUUbSmG1Rd0-" target="_blank">Melhores Sites de Filmes</a>
+        <br> <br><b>Exemplos:</b><br>
         <a href="https://www.netflix.com/browse" target="_blank">Netflix</a>
         <a href="https://auth.max.com/profile-picker" target="_blank">Max</a>
         <a href="https://www.starplus.com/pt-br/home" target="_blank">Star+</a>
+      </ol>
 </body>
 </html>
