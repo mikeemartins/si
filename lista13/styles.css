@@ -96,7 +96,8 @@ footer p {
     text-align: center;
 }
 
-a:link, a:visited {
+a:link, 
+a:visited {
     color: blue;
 }
 
