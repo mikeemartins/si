@@ -81,6 +81,7 @@ section button:hover {
 .armario {
     display: flex;
     flex-direction: row;
+    margin: 20px 0px;
 }
 
 .caixa {
@@ -96,4 +97,38 @@ section button:hover {
 .uber p {
     text-align: justify;
     margin: 20px;
+}
+.secaobranca p {
+    text-align: justify;
+    line-height: 1.5em;
+    margin: 20px 0px;
+}
+
+.secaocinza p {
+    text-align: justify;
+    line-height: 1.5em;
+}
+
+.caixa p {
+    text-align: justify;
+    margin: 20px;
+}
+
+.compromisso p {
+    text-align: justify;
+    margin: 20px 20px;
+}
+
+.compromisso img {
+    width: 500px;
+    margin: 20px 20px;
+}
+
+footer {
+    margin: 50px;
+}
+
+footer p {
+    text-align: center;
+    color: white;
 }
